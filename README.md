@@ -1,3 +1,2 @@
-# SistemasHardwareSoftwareBCC
-
-Este repositório contém os materiais de aula usados na disciplina *Sistemas Hardware-Software*.
+# Status dos testes
+![svg](http://3.142.157.80/webhook/sishard/test/svg/25-1-bcc/insper-classroom/25-1-sishard-bcc-Joao-Gabriel05)
